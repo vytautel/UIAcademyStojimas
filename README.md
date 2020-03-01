@@ -1,3 +1,6 @@
+Norint paleisti darbą, reikia konsolėje (terminale) paliesti komandą 'npm install'
+
+
 # Kayak UI Academy Užduotis
 
 Sukurkite paieškos _autocomplete_ web komponentą, kurio pagalba vartotojas galės pasirinkti kino filmą iš įvestos frazės atitikmenų. Paieškos komponentas turi bendrauti su filmų informacijos API.
